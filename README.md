@@ -207,4 +207,3 @@ show <class> <id>
 
 ## 0x06 Authors
 * Oko Michael Akpu
-* Onyekachi Prosper
